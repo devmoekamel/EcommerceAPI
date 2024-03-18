@@ -5,6 +5,7 @@ This is an ASP.NET Core-based RESTful API for managing e-commerce related inform
 ## Table of Contents
 
 - [Project Structure](#project-structure)
+- [Class Diagram](#Class-Diagram)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
