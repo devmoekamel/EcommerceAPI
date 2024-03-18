@@ -23,6 +23,7 @@ The project structure follows a typical ASP.NET Core Web API pattern:
 -
  ## Class Diagram
  
+ ```plaintext
  ___________________________________________         1         ___________________________________________
 |                    User                   |<--------------------------|                    Favourite               |
 |-------------------------------------------|         *         |-------------------------------------------|
@@ -87,7 +88,7 @@ The project structure follows a typical ASP.NET Core Web API pattern:
                                                                     |-------------------------------------------|
 
 
-
+```
 
 
 ## Key Features
